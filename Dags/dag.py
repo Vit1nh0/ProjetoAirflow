@@ -27,7 +27,7 @@ def extracao(**kwargs):
     data_path = "/opt/airflow/estudos/Checkpoint5e6profTiago.csv"
 
     df = pd.read_csv(data_path)
-    Cliente = MongoClient("mongodb://192.168.15.67:27017") 
+    Cliente = MongoClient("mongodb://Coloque o Ip da sua máquina:27017") 
     db = Cliente["MeuBancoDeDados"]
     Colecao = db["pessoas"]
 
