@@ -32,5 +32,5 @@ Este projeto configura um ambiente Docker para o Apache Airflow e insere dados e
 
 ## Observação
 
-**Caso já possua o Mongo instalado e deseja rodar os códigos na sua máquina é necessario verificar o arquivo mongod.conf e trocar a bindIp: 0.0.0.0, pois a conexão com o mongo ao ser feita de forma local pode dar ero de acesso negado se não estiver alterada**
+**Caso já possua o Mongo instalado e deseja rodar os códigos na sua máquina é necessario verificar o arquivo mongod.conf e trocar a bindIp: 0.0.0.0, pois a conexão com o mongo ao ser feita de forma local pode dar erro de acesso negado se não estiver alterada**
  
