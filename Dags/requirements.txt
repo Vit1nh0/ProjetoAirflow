@@ -1,0 +1,12 @@
+Versão do Apache
+apache-airflow==2.6.3
+
+Versão do Pandas
+pandas==2.2.3
+
+# MongoDB client
+from pymongo import MongoClient, error
+
+# PostgreSQL adapter for Python
+psycopg2-binary
+
