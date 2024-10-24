@@ -1,0 +1,6 @@
+id,nome,email,telefone,data_nascimento,sexo,cidade,estado
+1,Alice Silva,alice.silva@email.com,(11) 98765-4321,1990-05-12,Feminino,São Paulo,SP
+2,Bob Oliveira,bob.oliveira@email.com,(21) 97654-3210,1985-08-23,Masculino,Rio de Janeiro,RJ
+3,Carla Santos,carla.santos@email.com,(31) 96543-2109,1992-12-01,Feminino,Belo Horizonte,MG
+4,Daniel Costa,daniel.costa@email.com,(41) 95432-1098,1988-03-15,Masculino,Curitiba,PR
+5,Elena Martins,elena.martins@email.com,(51) 94321-0987,1995-07-30,Feminino,Porto Alegre,RS
