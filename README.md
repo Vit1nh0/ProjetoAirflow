@@ -18,9 +18,15 @@ Este projeto configura um ambiente Docker para o Apache Airflow e insere dados e
 
 ## Como Executar o Projeto
 
-1. Clone o repositório.
+1. Clone o repositório
+ ```
+git clone https://github.com/Vit1nh0/ProjetoAirflow
+```
 2. Navegue até o diretório do projeto.
-3. Execute `docker-compose up` para iniciar os serviços.
+3. Execute o seguinte comando para iniciar os serviços.
+ ```
+docker-compose up
+```
 4. Acesse o Airflow na URL `http://localhost:8080`.
 
 ## Dependências
