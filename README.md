@@ -30,7 +30,7 @@ git clone https://github.com/Vit1nh0/ProjetoAirflow
  ```
 docker-compose up
 ```
-5. Acesse o Airflow na URL `http://localhost:8080`. Se tudo estiver certo o site estara em Pé, se for solicitado senha e usuario utilize Airflow e Airflow respectivamente.
+5. Acesse o Airflow na URL `http://localhost:8080`. Se tudo estiver certo o site estara em Pé, se for solicitado usuario e senha utilize admin e 101105 respectivamente.
 
 6. Neste passo é necessário instalar o mongoDB o Mongo Compass e o MongoDB shell
 
